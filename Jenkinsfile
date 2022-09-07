@@ -1,4 +1,4 @@
-node('Built_in') 
+node('built_in') 
 {
     stage('Continuous Download_pammu') 
 	{
